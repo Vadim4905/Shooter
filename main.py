@@ -1,10 +1,7 @@
-#Создай собственный Шутер!
 #https://pixabay.com/ru/
 #https://incompetech.com/music/royalty-free/music.html
 # git init
 # git add .
-# git config --global user.email "poipooo600@gmail.com"
-# git config --global user.name "Vadym Hotko"
 # git commit -m 'коментарій'
 # git remote add ім'я посилання
 # git push ім'я master
